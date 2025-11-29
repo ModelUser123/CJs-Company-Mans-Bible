@@ -8,13 +8,13 @@ A comprehensive reference covering every aspect of drilling and completions oper
 
 ---
 
-## Current Status: 17 Sections Complete
+## Current Status: 22 Sections Complete
 
 ```
 ██████████████████████████████████████████████████  100% Complete
 ```
 
-**All Sections Implemented**: Core Operations (01-09), Decision Trees (10), Calculations (11), Regulatory (12), Scenarios (13), Appendices (14), Equipment Specs (15), Offshore Ops (16), Unconventional Ops (17)
+**All Sections Implemented**: Core Operations (01-09), Decision Trees (10), Calculations (11), Regulatory (12), Scenarios (13), Appendices (14), Equipment Specs (15), Offshore Ops (16), Unconventional Ops (17), Fishing Ops (18), Workover & Intervention (19), Coiled Tubing (20), Specialized Drilling (21), Cost Control (22)
 
 ---
 
@@ -139,12 +139,39 @@ A comprehensive reference covering every aspect of drilling and completions oper
 - [Marine Operations](./16-offshore-operations/marine-operations.md)
 - [Subsea Systems](./16-offshore-operations/subsea-systems.md)
 
-### [17 - Unconventional Operations](./17-unconventional-operations/) ✅ NEW
+### [17 - Unconventional Operations](./17-unconventional-operations/) ✅
 - [Pad Drilling](./17-unconventional-operations/pad-drilling.md)
 - [Horizontal Wells](./17-unconventional-operations/horizontal-wells.md)
 - [Multi-Stage Fracs](./17-unconventional-operations/multi-stage-fracs.md)
 - [Zipper Fracs](./17-unconventional-operations/zipper-fracs.md)
 - [Flowback Operations](./17-unconventional-operations/flowback-operations.md)
+
+### [18 - Fishing Operations](./18-fishing-operations/) ✅ NEW
+- [Fishing Overview](./18-fishing-operations/fishing-overview.md)
+- [Fishing Tools](./18-fishing-operations/fishing-tools.md)
+- [Fishing Procedures](./18-fishing-operations/fishing-procedures.md)
+- [Junk Recovery](./18-fishing-operations/junk-recovery.md)
+
+### [19 - Workover & Intervention](./19-workover-intervention/) ✅ NEW
+- [Workover Planning](./19-workover-intervention/workover-planning.md)
+- [Plug & Abandonment](./19-workover-intervention/plug-abandonment.md)
+- [Remedial Cementing](./19-workover-intervention/remedial-cementing.md)
+- [Recompletion Operations](./19-workover-intervention/recompletion-operations.md)
+
+### [20 - Coiled Tubing Operations](./20-coiled-tubing/) ✅ NEW
+- [CT Fundamentals](./20-coiled-tubing/ct-fundamentals.md)
+- [CT Intervention](./20-coiled-tubing/ct-intervention.md)
+- [CT Stimulation](./20-coiled-tubing/ct-stimulation.md)
+
+### [21 - Specialized Drilling](./21-specialized-drilling/) ✅ NEW
+- [HPHT Operations](./21-specialized-drilling/hpht-operations.md)
+- [Managed Pressure Drilling](./21-specialized-drilling/mpd-operations.md)
+- [Underbalanced Drilling](./21-specialized-drilling/ubd-operations.md)
+
+### [22 - Cost Control](./22-cost-control/) ✅ NEW
+- [Daily Cost Tracking](./22-cost-control/daily-cost-tracking.md)
+- [AFE Management](./22-cost-control/afe-management.md)
+- [Cost Optimization](./22-cost-control/cost-optimization.md)
 
 ---
 
@@ -160,6 +187,11 @@ A comprehensive reference covering every aspect of drilling and completions oper
 | **Stimulation** | Acidizing, Hydraulic Fracturing, Flowback |
 | **Unconventional** | Pad Drilling, Horizontal Wells, Multi-Stage Fracs, Zipper Fracs |
 | **Offshore** | Marine Operations, Subsea Systems |
+| **Fishing** | Fishing Tools, Procedures, Junk Recovery |
+| **Workover** | P&A, Remedial Cementing, Recompletions |
+| **Coiled Tubing** | CT Intervention, CT Stimulation |
+| **Specialized Drilling** | HPHT, MPD, UBD Operations |
+| **Cost Control** | Daily Tracking, AFE Management, Optimization |
 | **Safety** | H2S Safety, Emergency Response, HSE Management |
 | **Problem Solving** | Decision Trees, Calculation Sheets, Quick Reference Cards |
 | **Compliance** | Regulatory Requirements, Reporting |
@@ -181,6 +213,11 @@ A comprehensive reference covering every aspect of drilling and completions oper
 11. **Equipment**: Section 15 for rig and BOP specifications
 12. **Offshore**: Section 16 for marine and subsea operations
 13. **Unconventional**: Section 17 for pad drilling, horizontal wells, multi-stage fracs
+14. **Fishing**: Section 18 for stuck pipe and junk recovery operations
+15. **Workover**: Section 19 for intervention, P&A, and recompletions
+16. **Coiled Tubing**: Section 20 for CT intervention and stimulation
+17. **Specialized Drilling**: Section 21 for HPHT, MPD, and UBD operations
+18. **Cost Control**: Section 22 for daily tracking and AFE management
 
 ---
 
@@ -205,7 +242,12 @@ A comprehensive reference covering every aspect of drilling and completions oper
 | 15 - Equipment Specifications | 3 | ✅ Complete |
 | 16 - Offshore Operations | 2 | ✅ Complete |
 | 17 - Unconventional Operations | 5 | ✅ Complete |
-| **Total** | **92 documents** | **17 sections** |
+| 18 - Fishing Operations | 5 | ✅ Complete |
+| 19 - Workover & Intervention | 5 | ✅ Complete |
+| 20 - Coiled Tubing Operations | 4 | ✅ Complete |
+| 21 - Specialized Drilling | 4 | ✅ Complete |
+| 22 - Cost Control | 4 | ✅ Complete |
+| **Total** | **114 documents** | **22 sections** |
 
 ---
 
