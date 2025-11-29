@@ -1,6 +1,6 @@
 # Appendices
 
-Quick reference materials, contact lists, and supplementary information.
+Quick reference materials, contact lists, checklists, and supplementary information for daily operations.
 
 ## Contents
 
@@ -9,8 +9,10 @@ Quick reference materials, contact lists, and supplementary information.
 | [Glossary of Terms](glossary.md) | Oilfield terminology definitions |
 | [Common Abbreviations](abbreviations.md) | Industry abbreviations and acronyms |
 | [Unit Conversions](unit-conversions.md) | Comprehensive conversion tables |
-| [Emergency Contacts](emergency-contacts.md) | Key contacts template |
-| [Useful References](references.md) | API standards, industry resources |
+| [Emergency Contacts](emergency-contacts.md) | Key contacts and notification template |
+| [Master Checklists](master-checklists.md) | Pre-spud, trip, cementing, BOP test checklists |
+| [Quick Reference Cards](quick-reference-cards.md) | Pocket-sized field reference cards |
+| [Useful References](references.md) | API standards, industry resources, training |
 
 ## Quick Links
 

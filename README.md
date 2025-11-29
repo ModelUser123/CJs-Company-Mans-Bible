@@ -8,13 +8,13 @@ A comprehensive reference covering every aspect of drilling and completions oper
 
 ---
 
-## Current Status: 14 Sections Complete
+## Current Status: 17 Sections Complete
 
 ```
 ██████████████████████████████████████████████████  100% Complete
 ```
 
-**All Core Sections Implemented**: Well Planning, Drilling Ops, Well Control, Directional, Formation Eval, Completions, Stimulation/Frac, HSE, Emergency Response, Decision Trees, Calculations, Regulatory, Scenarios, Appendices
+**All Sections Implemented**: Core Operations (01-09), Decision Trees (10), Calculations (11), Regulatory (12), Scenarios (13), Appendices (14), Equipment Specs (15), Offshore Ops (16), Unconventional Ops (17)
 
 ---
 
@@ -121,9 +121,30 @@ A comprehensive reference covering every aspect of drilling and completions oper
 - [Stuck Pipe Case Studies](./13-real-world-scenarios/stuck-pipe-cases.md)
 - [Lessons Learned](./13-real-world-scenarios/lessons-learned.md)
 
-### [14 - Appendices](./14-appendices/) ✅ NEW
+### [14 - Appendices](./14-appendices/) ✅
 - [Glossary of Terms](./14-appendices/glossary.md)
 - [Common Abbreviations](./14-appendices/abbreviations.md)
+- [Unit Conversions](./14-appendices/unit-conversions.md)
+- [Emergency Contacts](./14-appendices/emergency-contacts.md)
+- [Master Checklists](./14-appendices/master-checklists.md)
+- [Quick Reference Cards](./14-appendices/quick-reference-cards.md)
+- [Useful References](./14-appendices/references.md)
+
+### [15 - Equipment Specifications](./15-equipment-specifications/) ✅ NEW
+- [Rig Components](./15-equipment-specifications/rig-components.md)
+- [Drill String](./15-equipment-specifications/drill-string.md)
+- [BOP Equipment](./15-equipment-specifications/bop-equipment.md)
+
+### [16 - Offshore Operations](./16-offshore-operations/) ✅ NEW
+- [Marine Operations](./16-offshore-operations/marine-operations.md)
+- [Subsea Systems](./16-offshore-operations/subsea-systems.md)
+
+### [17 - Unconventional Operations](./17-unconventional-operations/) ✅ NEW
+- [Pad Drilling](./17-unconventional-operations/pad-drilling.md)
+- [Horizontal Wells](./17-unconventional-operations/horizontal-wells.md)
+- [Multi-Stage Fracs](./17-unconventional-operations/multi-stage-fracs.md)
+- [Zipper Fracs](./17-unconventional-operations/zipper-fracs.md)
+- [Flowback Operations](./17-unconventional-operations/flowback-operations.md)
 
 ---
 
@@ -131,14 +152,16 @@ A comprehensive reference covering every aspect of drilling and completions oper
 
 | Phase | Key Documents |
 |-------|--------------|
-| **Pre-Spud** | AFE, Rig Selection, Pre-Spud Checklist, Permitting |
-| **Surface Hole** | BOP Testing, Mud Program, Casing Design |
+| **Pre-Spud** | AFE, Rig Selection, Pre-Spud Checklist, Permitting, Equipment Specs |
+| **Surface Hole** | BOP Testing, Mud Program, Casing Design, Master Checklists |
 | **Intermediate** | Directional Plan, Survey Management, MWD/LWD |
 | **Production** | Casing Design, Cementing, Well Control |
 | **Completion** | Completion Design, Perforating, Sand Control |
 | **Stimulation** | Acidizing, Hydraulic Fracturing, Flowback |
+| **Unconventional** | Pad Drilling, Horizontal Wells, Multi-Stage Fracs, Zipper Fracs |
+| **Offshore** | Marine Operations, Subsea Systems |
 | **Safety** | H2S Safety, Emergency Response, HSE Management |
-| **Problem Solving** | Decision Trees, Calculation Sheets |
+| **Problem Solving** | Decision Trees, Calculation Sheets, Quick Reference Cards |
 | **Compliance** | Regulatory Requirements, Reporting |
 
 ---
@@ -154,7 +177,10 @@ A comprehensive reference covering every aspect of drilling and completions oper
 7. **Calculations**: Ready-to-use calculation sheets in Section 11
 8. **Compliance**: Section 12 for regulatory requirements
 9. **Learning**: Section 13 case studies and lessons learned
-10. **Reference**: Section 14 appendices for terminology and conversions
+10. **Reference**: Section 14 appendices for terminology, checklists, quick reference cards
+11. **Equipment**: Section 15 for rig and BOP specifications
+12. **Offshore**: Section 16 for marine and subsea operations
+13. **Unconventional**: Section 17 for pad drilling, horizontal wells, multi-stage fracs
 
 ---
 
@@ -175,8 +201,11 @@ A comprehensive reference covering every aspect of drilling and completions oper
 | 11 - Calculation Sheets | 8 | ✅ Complete |
 | 12 - Regulatory Requirements | 6 | ✅ Complete |
 | 13 - Real-World Scenarios | 3 | ✅ Complete |
-| 14 - Appendices | 2 | ✅ Complete |
-| **Total** | **77 documents** | **14 sections** |
+| 14 - Appendices | 7 | ✅ Complete |
+| 15 - Equipment Specifications | 3 | ✅ Complete |
+| 16 - Offshore Operations | 2 | ✅ Complete |
+| 17 - Unconventional Operations | 5 | ✅ Complete |
+| **Total** | **92 documents** | **17 sections** |
 
 ---
 
